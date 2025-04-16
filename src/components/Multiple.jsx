@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Multipleofthree() {
+const Multiple = () => {
   return (
     <div>
       yeah its multiple of three
@@ -8,4 +8,4 @@ function Multipleofthree() {
   )
 }
 
-export default Multipleofthree
+export default Multiple
